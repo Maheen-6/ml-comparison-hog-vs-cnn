@@ -66,6 +66,3 @@ The **CNN-based feature extraction using ResNet18** produced higher classificati
 
 This shows that **deep learning features capture more complex image patterns than traditional hand-crafted features.**
 
-
-
-Ali Ahmed
